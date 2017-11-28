@@ -5,6 +5,6 @@ public class B1 {
 	}
 	
 	public void count(){
-		System.out.println("My age is 12.");
+		System.out.println(4);
 	}
 }
