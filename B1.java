@@ -6,4 +6,4 @@ public class B1 {
 
 	public void count(float parameter){
 		System.out.println("Counting the countless " + parameter);
-}
+  }
