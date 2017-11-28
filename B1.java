@@ -4,6 +4,6 @@ public class B1 {
 		System.out.println("Hi there!");
 	}
 
-	public void count(){
-		System.out.println(12);
+	public void count(float parameter){
+		System.out.println("Counting the countless " + parameter);
 }
