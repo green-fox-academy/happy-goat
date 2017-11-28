@@ -4,8 +4,8 @@ public class B1 {
 		System.out.println("Hi there!");
 	}
 	
-	public void count(String oneParameter){
-		System.out.println(oneParameter);
+	public void count(String oneParameter, String secondParameter){
+		System.out.println(oneParameter, secondParameter);
 	}
 }
 
