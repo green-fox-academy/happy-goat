@@ -4,7 +4,7 @@ public class B1 {
 		System.out.println("Hi there!");
 	}
 	
-	public void count(){
-		System.out.println("My age is 12.");
+	public void count(String oneParameter){
+		System.out.println(oneParameter);
 	}
 }
