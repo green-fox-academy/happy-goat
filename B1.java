@@ -7,4 +7,7 @@ public class B1 {
 	public void count(String oneParameter){
 		System.out.println(oneParameter);
 	}
+	
+	public void valami(){
+	}
 }
